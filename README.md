@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at Clemson University | Full Stack Web Developer | Software Engineer
 ---------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Clemson, SC
+* 🌍  I'm based in Clemson, SC, United States
 * ✉️  You can contact me at [uckoo.tejdeep@gmail.com](mailto:uckoo.tejdeep@gmail.com)
 * 🧠  I'm learning to master Javascript through Open source contributions
 * 🤝  I'm open to collaborating on Interesting projects
