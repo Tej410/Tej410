@@ -9,7 +9,7 @@ Computer Science Student at Clemson University | Full Stack Web Developer | Soft
 * 🧠  I'm learning to master Javascript through Open source contributions
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm a quick learner
-* 🧑‍💻  Leetcode : https://leetcode.com/u/tejdeep20012013/
+* 🧑‍💻  Leetcode : [tejdeep20012013](https://leetcode.com/u/tejdeep20012013/)
 
 ### Skills
 
