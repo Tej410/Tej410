@@ -6,11 +6,12 @@ Computer Science Student at Clemson University | Full Stack Web Developer | Soft
 
 * 🌍  I'm based in Clemson, SC, United States
 * ✉️  You can contact me at [uckoo.tejdeep@gmail.com](mailto:uckoo.tejdeep@gmail.com)
+* 🧑‍💻  Leetcode : [tejdeep20012013](https://leetcode.com/u/tejdeep20012013/)
+* 🤵  Linkedin : [Tejdeep Uckoo](https://www.linkedin.com/in/tejdeep-uckoo/)
 * 🧠  I'm learning to master Javascript through Open source contributions
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm a quick learner
-* 🧑‍💻  Leetcode : [tejdeep20012013](https://leetcode.com/u/tejdeep20012013/)
-* 🧑‍🦱  Linkedin : [Tejdeep Uckoo](https://www.linkedin.com/in/tejdeep-uckoo/)
+
 
 
 ### Skills
