@@ -1,4 +1,4 @@
-![linkedin](https://github.com/user-attachments/assets/9c2a961f-f99d-476e-bce8-7e7dd75b7736)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Tejdeep Uckoo
+I am Tejdeep Uckoo
 =====================================================================================================================================
 
 Computer Science Student at Clemson University | Full Stack Web Developer | Software Engineer
